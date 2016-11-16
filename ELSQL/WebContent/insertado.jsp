@@ -7,7 +7,7 @@
 <!-- Esto es un ejemplo -->
 
 
-<!-- Esto es un ejemplo escrito desde el remoto -->
+<!-- Esto es un ejemplo escrito desde el remoto del fork -->
 
 <html>
 <head>
