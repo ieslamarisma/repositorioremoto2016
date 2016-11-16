@@ -6,6 +6,9 @@
 
 <!-- Esto es un ejemplo -->
 
+
+<!-- Esto es un ejemplo escrito desde el remoto -->
+
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
