@@ -5,7 +5,7 @@
 <html>
 <head><title>Etiquetas SQL</title></head>
 <body>
-  <%-- Conectar con la base de datos. Resultado: bd --%>
+  <%-- Conectar con la base de datos. Resultado: bd  Esto es una linea añadida--%>
   <sql:setDataSource var="bd"
                      driver="com.mysql.jdbc.Driver" 
                      url="jdbc:mysql://localhost:3306/bd_tutorias"
@@ -26,7 +26,7 @@
   <table width=100% border=1>
     <%-- Cabeceras --%>
     <tr>
-      <th>Alumno</th><th>D�a/hora</th><th>Con el profesor</th>
+      <th>Alumno</th><th>Día/hora</th><th>Con el profesor</th>
     </tr>
     <%-- Filas --%>
     <c:forEach var="fila" items="${cdr.rows}">
